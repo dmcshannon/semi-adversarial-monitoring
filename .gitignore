@@ -1,0 +1,12 @@
+data/*
+!data/README.md
+__pycache__/
+*.pyc
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+paper/*.pdf
+.DS_Store
