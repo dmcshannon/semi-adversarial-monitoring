@@ -1,0 +1,7 @@
+Highlights
+
+- Mahalanobis monitoring flags harmless random noise on 99.7% of defective wafers
+- Detector-aware PGD keeps FAR at 0.765 while only 10.3% of defectives are flagged
+- Perturbation direction, not Euclidean size, determines whether the monitor responds
+- HopSkipJump is flagged far more often against an MLP than against XGBoost
+- Apparent XGBoost transfer resistance traced to oversampling on unscaled features
